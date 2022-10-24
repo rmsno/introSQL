@@ -1,0 +1,17 @@
+name,Sum of rental_duration,Sum of standard_quartile,different
+Action,92,46,46
+Animation,63,28,35
+Children,47,27,20
+Classics,62,28,34
+Comedy,53,26,27
+Documentary,63,30,33
+Drama,56,29,
+Family,49,21,
+Foreign,66,34,32
+Games,55,31,
+Horror,42,20,
+Music,11,7,
+New,53,28,
+Sci-Fi,53,28,
+Sports,45,28,
+Travel,51,28,
